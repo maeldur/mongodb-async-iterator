@@ -1,0 +1,14 @@
+{
+  "name": "mongo-async-iterator",
+  "version": "1.0.0",
+  "description": "helper methods to iterate collections in an async way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Chang <nick@furiki.com>",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.4.2"
+  }
+}
